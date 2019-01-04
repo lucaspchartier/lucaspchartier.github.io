@@ -1,8 +1,18 @@
 body {
-  background: #fff;
-  background-image: url(https://i.imgur.com/Km6bhTk.jpg);
+
 }
 
 h1 {
   color: #FF2734;
+}
+
+body header.masthead {
+  background: #fff;
+  background-image: url('../../img/boston.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body #mainNav {
+  background-color: #000;
 }
