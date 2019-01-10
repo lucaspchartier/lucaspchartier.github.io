@@ -14,6 +14,13 @@ body header.masthead {
   background-position: center;
 }
 
+body footer {
+  padding: 25px 0;
+  text-align: center;
+  color: #000;
+  background-color: #fff;
+}
+
 body #mainNav {
   background-color: #000;
 }
