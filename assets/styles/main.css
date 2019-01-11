@@ -8,17 +8,10 @@ h1 {
 
 body header.masthead {
   background: #fff;
-  background-image: url('../../img/travel/london.jpg');
+  background-image: url('../../img/travel/venice.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-body footer {
-  padding: 25px 0;
-  text-align: center;
-  color: #fff;
-  background-color: #000;
 }
 
 body #mainNav {
