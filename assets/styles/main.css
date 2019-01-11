@@ -14,11 +14,11 @@ body header.masthead {
   background-position: center;
 }
 
-footer {
+body footer {
   padding: 25px 0;
   text-align: center;
-  color: #000;
-  background-color: #fff;
+  color: #fff;
+  background-color: #000;
 }
 
 body #mainNav {
