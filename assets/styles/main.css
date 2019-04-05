@@ -14,3 +14,19 @@ body header.masthead {
 body #mainNav {
   background-color: #000;
 }
+
+.rounded-circle {
+  border-radius: 25%!important;
+  background-color: #fff;
+  background-size: cover;
+  background-position: center;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
