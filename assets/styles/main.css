@@ -1,9 +1,8 @@
 h1 {
-  color: #FF2734;
+  color: #ff2734;
 }
 
 body header.masthead {
-  background: #fff;
   background-image: url('../../img/travel/boston.jpg');
   background-repeat: no-repeat;
   background-size: cover;
