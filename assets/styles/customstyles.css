@@ -8,13 +8,13 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  color: #fec810;
+  color: #42e5f4;
   font-size: 20px;
 }
 
 #portfolio .portfolio-item .portfolio-caption {
   background-color: rgba(255,255,255,0.25);
-  color: #fec810;
+  color: #42e5f4;
 }
 
 #about {
