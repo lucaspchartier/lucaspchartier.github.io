@@ -2,7 +2,7 @@
   background: #d8cdcd;
 }
 
-#portfolio {
+#projects {
   background-image: url('../../img/travel/sunset.jpg');
   background-repeat: no-repeat;
   background-size: cover;
@@ -11,7 +11,7 @@
   font-size: 20px;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#projects .projects-item .projects-caption {
   background-color: rgba(0,0,0,0.25);
   color: #42e5f4;
 }
