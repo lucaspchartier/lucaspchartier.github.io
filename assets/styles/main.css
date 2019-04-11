@@ -4,7 +4,7 @@ h1 {
 
 body header.masthead {
   background: #fff;
-  background-image: url('../../img/travel/beach.jpg');
+  background-image: url('../../img/travel/boston.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -26,6 +26,7 @@ body #mainNav {
   max-width: 100%;
   height: auto;
 }
+
 img {
   vertical-align: middle;
   border-style: none;
