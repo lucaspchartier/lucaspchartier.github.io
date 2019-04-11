@@ -3,12 +3,11 @@
 }
 
 #portfolio {
-  background: #fff;
   background-image: url('../../img/travel/sunset.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  color: #42e5f4;
+  color: #212529;
   font-size: 20px;
 }
 
