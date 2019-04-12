@@ -1,7 +1,3 @@
-h1 {
-  color: #ff2734;
-}
-
 body header.masthead {
   background-image: url('../../img/travel/boston.jpg');
   background-repeat: no-repeat;
@@ -14,6 +10,10 @@ body header.masthead {
 div.intro-lead-in,
 div.intro-heading {
   text-shadow: 2px 2px 0 black;
+}
+
+a.btn.btn-primary {
+  text-shadow: 1px 1px 0 black;
 }
 
 body #mainNav {
