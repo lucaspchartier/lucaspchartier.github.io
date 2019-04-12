@@ -11,6 +11,11 @@ body header.masthead {
   filter: contrast(125%);
 }
 
+div.intro-lead-in,
+div.intro-heading {
+  text-shadow: 2px 2px 0 black;
+}
+
 body #mainNav {
   background-color: #000;
 }
