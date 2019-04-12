@@ -16,6 +16,10 @@
   color: #42e5f4;
 }
 
+#projects h3.section-subheading {
+  text-shadow: 1px 1px 0 white;
+}
+
 #projects h4 {
   text-shadow: 2px 2px 0 black;
 }
@@ -40,10 +44,11 @@ section#contact {
 
 section#contact .section-heading {
   color: #212529;
+  text-shadow: 1px 1px 0 white;
 }
 
-section#contact .text-muted {
-  color: #212529;
+section#contact .section-subheading {
+  text-shadow: 1px 1px 0 white;
 }
 
 .list-inline-item {
