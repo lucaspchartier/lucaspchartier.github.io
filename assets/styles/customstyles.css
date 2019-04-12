@@ -16,6 +16,15 @@
   color: #42e5f4;
 }
 
+#projects h4 {
+  text-shadow: 2px 2px 0 black;
+}
+
+#projects button.btn.btn-primary {
+  text-shadow: 1px 1px 0 black;
+}
+
+
 #about {
   background: #d8cdcd;
   font-size: 20px;
