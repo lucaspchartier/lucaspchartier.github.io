@@ -11,13 +11,18 @@
   font-size: 20px;
 }
 
-#projects .projects-item .projects-caption {
-  background-color: rgba(0,0,0,0.5);
+#projects h2.section-heading {
   color: #42e5f4;
+  text-shadow: 1px 1px 0 black;
 }
 
 #projects h3.section-subheading {
   text-shadow: 1px 1px 0 white;
+}
+
+#projects .projects-item .projects-caption {
+  background-color: rgba(0,0,0,0.5);
+  color: #42e5f4;
 }
 
 #projects h4 {
