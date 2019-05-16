@@ -29,6 +29,11 @@
   text-shadow: 2px 2px 0 black;
 }
 
+#projects p.text-muted {
+  color: #42e5f4!important;
+  text-shadow: 1px 1px 0 black;
+}
+
 #projects button.btn.btn-primary {
   text-shadow: 1px 1px 0 black;
 }
