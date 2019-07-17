@@ -9,6 +9,7 @@
   background-position: center;
   color: #212529;
   font-size: 20px;
+  /* display: flex; */
 }
 
 #projects h2.section-heading {
@@ -17,7 +18,8 @@
 }
 
 #projects h3.section-subheading {
-  text-shadow: 1px 1px 0 white;
+  color: white!important;
+  text-shadow: 2px 2px 0 black;
 }
 
 #projects .projects-item .projects-caption {
@@ -36,6 +38,14 @@
 
 #projects button.btn.btn-primary {
   text-shadow: 1px 1px 0 black;
+}
+
+div #completed-projects {
+  display: flex;
+}
+
+div #incomplete-projects {
+  display: flex;
 }
 
 #about {
