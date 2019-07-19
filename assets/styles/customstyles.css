@@ -16,9 +16,16 @@
   text-shadow: 1px 1px 0 black;
 }
 
-#projects h3.section-subheading {
-  color: black!important;
-  text-shadow: 1px 1px 0 white;
+#completed-projects h3.section-subheading {
+  color: #42e5f4!important;
+  text-shadow: 1px 1px 0 black;
+  font-weight: bold;
+}
+
+#incomplete-projects h3.section-subheading {
+  color: #42e5f4!important;
+  text-shadow: 1px 1px 0 black;
+  font-weight: bold;
 }
 
 #projects .projects-item .projects-caption {
