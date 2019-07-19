@@ -1,4 +1,4 @@
-#technologies {
+#about {
   background: #d8cdcd;
 }
 
@@ -9,7 +9,6 @@
   background-position: center;
   color: #212529;
   font-size: 20px;
-  /* display: flex; */
 }
 
 #projects h2.section-heading {
@@ -18,8 +17,8 @@
 }
 
 #projects h3.section-subheading {
-  color: white!important;
-  text-shadow: 2px 2px 0 black;
+  color: black!important;
+  text-shadow: 1px 1px 0 white;
 }
 
 #projects .projects-item .projects-caption {
@@ -40,15 +39,17 @@
   text-shadow: 1px 1px 0 black;
 }
 
-div #completed-projects {
+div#completed-projects {
   display: flex;
+  justify-content: center;
 }
 
-div #incomplete-projects {
+div#incomplete-projects {
   display: flex;
+  justify-content: center;
 }
 
-#about {
+#technologies {
   background: #d8cdcd;
 }
 
