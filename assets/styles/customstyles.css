@@ -60,6 +60,14 @@ div#incomplete-projects {
   background: #d8cdcd;
 }
 
+#technologies h2.section-heading {
+  padding: 60px;
+}
+
+#technologies div.icon {
+  padding: 60px;
+}
+
 #technologies span.subtext {
   font-size: 20px;
 }
