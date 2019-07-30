@@ -60,6 +60,10 @@ div#incomplete-projects {
   background: #d8cdcd;
 }
 
+#technologies span.subtext {
+  font-size: 20px;
+}
+
 section#contact {
   background-image: url('../../img/travel/beach.jpg');
   background-repeat: no-repeat;
