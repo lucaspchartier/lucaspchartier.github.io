@@ -61,15 +61,16 @@ div#incomplete-projects {
 }
 
 #technologies h2.section-heading {
-  padding: 60px;
+  margin: 60px 0;
 }
 
 #technologies div.icon {
-  padding: 60px;
+  margin: 60px 0;
 }
 
 #technologies span.subtext {
   font-size: 20px;
+  width: 100%;
 }
 
 section#contact {
