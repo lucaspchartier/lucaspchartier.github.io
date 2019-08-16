@@ -27,12 +27,12 @@ body #mainNav {
   background-position: center;
 }
 
-.img-fluid {
-  max-width: 100%;
-  height: auto;
-}
-
 img {
   vertical-align: middle;
   border-style: none;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
