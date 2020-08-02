@@ -168,7 +168,7 @@ img::-moz-selection {
 }
 header.masthead {
   text-align: center;
-  color: #42e5f4;
+  color: #fff;
   background-image: url(../img/header-bg.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -203,6 +203,7 @@ header.masthead .intro-text .intro-heading {
     padding-bottom: 200px;
   }
   header.masthead .intro-text .intro-lead-in {
+    color: #42e5f4;
     font-size: 40px;
     font-style: italic;
     line-height: 40px;
@@ -212,6 +213,7 @@ header.masthead .intro-text .intro-heading {
       "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   }
   header.masthead .intro-text .intro-heading {
+    color: #42e5f4;
     font-size: 75px;
     font-weight: 700;
     line-height: 75px;
